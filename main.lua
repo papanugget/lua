@@ -1,5 +1,5 @@
 function love.load()
-    anim8 = require 'libraries/anim8/anim8'
+    anim8 = require 'libraries/anim8'
     player = {}
     player.x = 400
     player.y = 200
